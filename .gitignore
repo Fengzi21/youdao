@@ -2,6 +2,7 @@
 dist
 build
 youdao.egg-info
+.eggs
 env
 *.pyc
 .vscode
